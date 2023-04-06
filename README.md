@@ -2,14 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Welcome+to+my+repository;I'm+Ricardo+and+I'm+a+front+end+developer;I+am+always+developing+and+looking+for+improvement.;Feel+free+to+get+in+touch)](https://git.io/typing-svg)
 
  <div>
-   <a href="https://github.com/MrRicardoLeite">
-  <img height="138em" src="https://github-readme-stats.vercel.app/api?username=MrRicardoLeite&show_icons=true&theme=tokyonight&hide_border=false">
-  <img height="138em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRicardoLeite&theme=tokyonight&hide_border=false">
-  <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRicardoLeite&layout=compact&theme=tokyonight&hide_border=false"></a>
+  <img height="138em" src="https://github-readme-stats.vercel.app/api?username=MrRicardoLeite&show_icons=true&theme=tokyonight&hide_border=false"></br>
+  <img height="138em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRicardoLeite&theme=tokyonight&hide_border=false"></br>
+  <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRicardoLeite&layout=compact&theme=tokyonight&hide_border=false">
    
 
 </div>
-<!-- <div style="display: inline_block"><br>
+<!-- <div style="display: inline_block;"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
